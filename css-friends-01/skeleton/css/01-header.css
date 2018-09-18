@@ -12,11 +12,19 @@ body {
 
 }
 
+.header a {
+
+}
+
 .header-nav {
 
 }
 
 .header-logo {
+
+}
+
+.header-logo:hover {
 
 }
 
@@ -26,5 +34,9 @@ body {
 }
 
 .header-list > li {
+
+}
+
+.header-list > li:hover {
 
 }
