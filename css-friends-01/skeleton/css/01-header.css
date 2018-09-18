@@ -5,4 +5,26 @@ body {
   font-weight: normal;
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
+  background: #eee
+}
+
+.header {
+
+}
+
+.header-nav {
+
+}
+
+.header-logo {
+
+}
+
+.header-list {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.header-list > li {
+
 }
