@@ -1,0 +1,8 @@
+/* PHASE 1: Header */
+
+/* default font weight, family and size */
+body {
+  font-weight: normal;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
